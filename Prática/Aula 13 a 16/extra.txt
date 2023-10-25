@@ -1,0 +1,8 @@
+Professor e Disciplina
+Evento e ingresso
+cidade e hotéis
+fabricante e carros
+biblioteca e livro
+empresa e projetos
+fazenda e safra
+cliente e reserva
